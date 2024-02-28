@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### 👦| My name is Gustavo Hiroshi Yoshio, you can call me as Dev Gusma or just Gus.
+#### 👦| My name is Gustavo Hiroshi Yoshio, you can call me Dev Gusma or just Gus.
 #### 🏫| I've got a bachelor degree in computer sciente at *Universidade Presbiteriana Mackenzie* - since January-2024
 #### 🔎| Curiosities: I have a cat, love cooking, aways read news about technologys and I'm Brazilian, also descendent of japanese.
 
