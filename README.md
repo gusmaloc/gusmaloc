@@ -4,8 +4,6 @@
 #### 🏫| I've got a bachelor degree in computer sciente at *Universidade Presbiteriana Mackenzie* - since January-2024
 #### 🔎| Curiosities: I have a cat, love cooking, aways read news about technologys and I'm Brazilian, also descendent of japanese.
 
-![Snake animation](https://github.com/gusmaloc/gusmaloc/blob/output/github-contribution-grid-snake.svg)
-
 ## FRAMEWORKS:
 <div >
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
